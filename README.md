@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to my first Open Source project
-- ⚡ Fun fact: I love playing boardgames and making puns (the best according to me)
+- ⚡ Fun fact: I love playing boardgames
 
 ### Connect with me:
 
