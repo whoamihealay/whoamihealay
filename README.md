@@ -29,16 +29,5 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-
 [website]: https://whoamihealay.com
 [linkedin]: https://www.linkedin.com/in/andrew-southern-healay/
