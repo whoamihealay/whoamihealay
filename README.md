@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=whoamihealay.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://whoamihealay.com)
 
-## I'm a Husband, IT enthusiast and Sound engineer!!
+## I'm a IT enthusiast and Sound engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to my first Open Source project
