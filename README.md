@@ -4,9 +4,10 @@
 
 ## I'm a IT enthusiast and Sound engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to my first Open Source project
-- ⚡ Fun fact: I love playing boardgames
+- 🌱 I'm currently learning everything !
+- :memo: I'm currently focusing on CI/CD with: Python/Django/CSS, Ansible, Jenkins, docker and git !
+- 🥅 2021 Goals: Contribute to my first Open Source project !
+- ⚡ Fun fact: I love playing boardgames !
 
 ### Connect with me:
 
