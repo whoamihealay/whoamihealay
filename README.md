@@ -5,7 +5,7 @@
 ## I'm a IT enthusiast and Sound engineer!!
 
 - 🌱 I'm currently learning everything !
-- :memo: I'm currently focusing on web developpement: Html, CSS/SASS, Javascript(React), Django and PostgresSQL
+- :memo: I'm currently focusing on web development: Html, CSS/SASS, Javascript(React), Django and PostgresSQL
 - 🥅 2021 Goals: Contribute to my first Open Source project !
 - ⚡ Fun fact: I love playing boardgames !
 
