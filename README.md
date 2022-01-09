@@ -1,6 +1,6 @@
-### Hi there, I'm Andrew - aka [whoamihealay][website] or Healay for short 👋
+### Hi there, I'm Andrew - aka [whoamihealay] or Healay for short 👋
 
-[![Website](https://img.shields.io/website?label=whoamihealay.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://whoamihealay.com)
+[//]: #[![Website](https://img.shields.io/website?label=whoamihealay.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://whoamihealay.com)
 
 ## I'm a IT enthusiast and Sound engineer!!
 
