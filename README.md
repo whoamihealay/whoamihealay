@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[Website][<img align="left" alt="whoamiandrew.tk/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](whoamiandrew.tk/)
+[<img align="left" alt="whoamiandrew.tk/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="Andrew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -38,5 +38,5 @@
 
 <br />
 
-[website]: https://whoamihealay.com
+[website]: https://whoamiandrew.tk
 [linkedin]: https://www.linkedin.com/in/andrew-southern-healay/
