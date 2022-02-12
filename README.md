@@ -38,5 +38,5 @@
 
 <br />
 
-[website]: https://whoamiandrew.tk
+[website]: https://whoamiandrew.com
 [linkedin]: https://www.linkedin.com/in/andrew-southern-healay/
