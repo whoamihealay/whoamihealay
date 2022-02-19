@@ -8,6 +8,8 @@
 - 🥅 2022 Goals: Land my first web dev job and contribute to an Open Source project !
 - ⚡ Fun fact: I love playing boardgames and cooking delicious meals !
 
+My moto: "Oh ! It worked on the first try? Hum..that's not right ! Lets break it to see what happens !
+
 ### Connect with me:
 
 [<img align="left" alt="whoamiandrew.tk/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
