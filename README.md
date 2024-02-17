@@ -5,8 +5,6 @@
 ## I'm a Developper, IT enthusiast and former Sound engineer!!
 - ⚡ Fun fact: I love playing boardgames and cooking delicious meals !
 
-My moto: "Oh ! It worked on the first try? Hum..that's not right ! Let's break it to see what happens !
-
 ### Connect with me:
 
 [<img align="left" alt="whoamiandrew.tk/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
