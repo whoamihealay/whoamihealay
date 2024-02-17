@@ -3,12 +3,9 @@
 [//]: #[![Website](https://img.shields.io/website?label=whoamihealay.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://whoamiandrew.com)
 
 ## I'm a Developper, IT enthusiast and former Sound engineer!!
-
-- :memo: I'm currently focusing on web development ! Actively learning web technologies (Html, CSS, JS) w/ React/Next, Typescript, SASS/Tailwind...
-- 🥅 2022 Goals: Land my first web dev job and contribute to an Open Source project ! - Accomplished :fire:
 - ⚡ Fun fact: I love playing boardgames and cooking delicious meals !
 
-My moto: "Oh ! It worked on the first try? Hum..that's not right ! Lets break it to see what happens !
+My moto: "Oh ! It worked on the first try? Hum..that's not right ! Let's break it to see what happens !
 
 ### Connect with me:
 
